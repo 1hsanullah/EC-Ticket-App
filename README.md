@@ -1,5 +1,3 @@
-# Software Engineering Group 59
-
 ## QMUL issues and EC tracker
 
 WINDOWS:
